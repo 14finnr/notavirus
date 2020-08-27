@@ -8,6 +8,7 @@ virus_list = []
 # Check and infect
 # Optional payload
 print("Gotcha!")
+print("Github test")
 
 
 # Virus end
